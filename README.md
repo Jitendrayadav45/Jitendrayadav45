@@ -3,17 +3,13 @@
 <h3 align="center">A passionate Data Scientist and Data Structures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrayadav45&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrayadav45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrayadav45" alt="jitendrayadav45" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@jitendra810463" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendra810463?logo=twitter&style=for-the-badge" alt="@jitendra810463" /></a> </p>
 
 - 🌱 I’m currently learning **Python , Dsa , Numpy , Pandas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jitendrayadav45](https://github.com/Jitendrayadav45)
 
-- 💬 Ask me about **👋 Hi there! I'm Jitendra, a Computer Science student with a passion for Data Science and Data Structures & Algorithms. 💡 I enjoy exploring the intricacies of data and leveraging algorithms to solve complex problems. 🔭 I’m currently working on projects related to machine learning, data analysis, and algorithm optimization. 📚 Always eager to learn new technologies and improve my coding skills. 🌱 Let's connect and collaborate on interesting projects!**
+- 💬 Ask me about **👋 Hi there! I'm Jitendra, a Computer Science student with a passion for Data Science and Data Structures & Algorithms.
 
 - 📫 How to reach me **official.jitendraa@gmail.com**
 
