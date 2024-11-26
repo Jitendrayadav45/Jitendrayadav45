@@ -1,6 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)]
-[![MasterHead](https://github.com/Jitendrayadav45/Jitendrayadav45/blob/main/Welcome.png)]
-
 <img align="center"
 <h1 align="center">Hi 👋, I'm Jitendra Yadav</h1>
 <h3 align="center">A passionate Data Scientist and Data Structures and Algorithms</h3>
