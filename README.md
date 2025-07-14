@@ -113,7 +113,7 @@
 
 <!-- Closing Line with Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="180px" />
 </p>
 <p align="center" style="color:#7CFC00; font-weight: bold; font-size: 18px;">
   ✨ Thanks for stopping by! Let's connect and grow together 🚀
