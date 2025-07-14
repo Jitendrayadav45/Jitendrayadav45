@@ -12,7 +12,8 @@
 <h3 align="center" style="color:#00CED1;">🚀 Data Science Explorer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
 
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 ---
 
