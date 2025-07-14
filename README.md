@@ -1,36 +1,78 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="MasterHead">
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=✨+Hey%2C+I'm+Jitendra+Yadav.+Welcome+to+my+GitHub!+🌟" alt="Typing SVG" />
+</h1>
+
+<h3 align='center'>
+  A passionate Data Scientist and DSA Enthusiast from India 🇮🇳
+</h3>
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=jitendrayadav45&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-<h1 align="center">Hi 👋, I'm Jitendra Yadav</h1>
-<h3 align="center">A passionate Data Scientist and Data Structures and Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/@jitendra810463" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendra810463?logo=twitter&style=for-the-badge" alt="@jitendra810463" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **Python , Dsa , Numpy , Pandas**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="80%">
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jitendrayadav45](https://github.com/Jitendrayadav45)
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **👋 Hi there! I'm Jitendra, a Computer Science student with a passion for Data Science and Data Structures & Algorithms.
+---
 
-- 📫 How to reach me **official.jitendraa@gmail.com**
+### 🔭 I’m currently working on:
+- **LeetCode DSA Challenges** 🔍
+- **Python and Data Science Projects**
 
-- ⚡ Fun fact **I Am Funny**
+### 📚 Currently Learning:
+- Python, Pandas, NumPy, MySQL  
+- Data Structures & Algorithms
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@jitendra810463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jitendra810463" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jitendra yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitendra yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/stax_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stax_code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@official_jitend2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@official_jitend2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/official_jitendra_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="official_jitendra_yadav" height="30" width="40" /></a>
+### 💬 Ask me about:
+- Python, DSA, Pandas, MySQL
+- Roadmaps for DSA + Data Science
+
+### 👨‍💻 Portfolio:
+- All my work is available here: [GitHub Portfolio](https://github.com/Jitendrayadav45)
+
+### 📫 Contact:
+- **Email:** official.jitendraa@gmail.com
+
+### 😄 Fun Fact:
+- I’m funny (and always debugging life 😄)
+
+---
+
+## 🔰 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra%20yadav)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jitendra810463)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stax_code)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/official_jitend2)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/official_jitendra_yadav)
+
+---
+
+## 🚀 Languages and Tools:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 💻 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitendrayadav45&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrayadav45&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrayadav45&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrayadav45&show_icons=true&locale=en&layout=compact" alt="jitendrayadav45" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrayadav45&show_icons=true&locale=en" alt="jitendrayadav45" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrayadav45&" alt="jitendrayadav45" /></p>
+⭐️ _Thanks for visiting my profile! Let's grow together 🚀_
