@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="80%" />
 </div>
+
 
 <!-- Intro Title with colorful wave text -->
 <h1 align="center">
