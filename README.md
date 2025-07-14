@@ -27,36 +27,7 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center" style="color:#00CED1;">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jitendrayadav45&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitendrayadav45&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrayadav45&layout=compact&theme=radical" />
-</p>
 
----
-
-<!-- Latest Activity -->
-<h2 align="center" style="color:#ff7f50;">🔥 Latest GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitendrayadav45&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-<!-- Focused On -->
-<h2 style="color:#20B2AA;">🧠 Currently Focused On</h2>
-<ul style="color:#FFD700; font-size: 16px;">
-  <li>📘 <strong style="color:#7CFC00;">Mastering DSA Topic-wise</strong></li>
-  <li>📈 <strong style="color:#FFA500;">Improving problem-solving via LeetCode & HackerRank</strong></li>
-  <li>🧪 <strong style="color:#00FFFF;">Working on real-world Data Science projects</strong></li>
-  <li>📚 <strong style="color:#DA70D6;">Preparing for tech interviews</strong></li>
-</ul>
-
----
 
 <!-- Tools -->
 <h2 style="color:#FF4500;">💻 Languages & Tools I Use</h2>
@@ -91,6 +62,38 @@
 </p>
 
 ---
+
+<!-- GitHub Stats -->
+<h2 align="center" style="color:#00CED1;">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jitendrayadav45&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jitendrayadav45&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrayadav45&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- Latest Activity -->
+<h2 align="center" style="color:#ff7f50;">🔥 Latest GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitendrayadav45&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+<!-- Focused On -->
+<h2 style="color:#20B2AA;">🧠 Currently Focused On</h2>
+<ul style="color:#FFD700; font-size: 16px;">
+  <li>📘 <strong style="color:#7CFC00;">Mastering DSA Topic-wise</strong></li>
+  <li>📈 <strong style="color:#FFA500;">Improving problem-solving via LeetCode & HackerRank</strong></li>
+  <li>🧪 <strong style="color:#00FFFF;">Working on real-world Data Science projects</strong></li>
+  <li>📚 <strong style="color:#DA70D6;">Preparing for tech interviews</strong></li>
+</ul>
+
+---
+
 
 <!-- Closing Line with Animation -->
 <p align="center">
