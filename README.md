@@ -4,7 +4,7 @@
 </div>
 
 <!-- Intro Title -->
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm <span style="color:#5C62EC;">Jitendra Yadav</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#5C62EC;">Jitendra Yadav</span></h1>
 <h3 align="center">🚀 Data Science Explorer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
 
 <!-- Coding GIF -->
@@ -13,6 +13,7 @@
 ---
 
 ### 💡 About Me
+
 - 🌱 I’m currently learning **Python, DSA, NumPy, Pandas**
 - 🔭 I love building data-driven projects and solving LeetCode challenges
 - 💬 Ask me about **Data Science, Machine Learning, and DSA**
@@ -21,23 +22,31 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
+  <a href="mailto:official.jitendraa@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/jitendra810463" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jitendra-yadav" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/stax_code" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/official_jitend2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="35"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/official_jitendra_yadav/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-leetcode-a-platform-for-preparing-it-technical-interviews-logo-shadow-tal-revivo.png" alt="leetcode" height="40" />
   </a>
 </p>
 
@@ -45,8 +54,18 @@
 
 ### 💻 Languages & Tools I Use
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,pandas,vscode,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,pandas,github,vscode&theme=dark" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -55,19 +74,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jitendrayadav45&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
+  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jitendrayadav45&theme=radical&hide_border=true" />
-  <br/>
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrayadav45&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 Latest Activity
+### 🔥 Latest GitHub Activity
 
-<!-- Add GitHub activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jitendrayadav45&theme=dracula" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jitendrayadav45&theme=react-dark&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -81,6 +102,6 @@
 
 ---
 
-<p align="center" style="font-weight: bold;">
-✨ Thank you for visiting my profile! Let's connect and grow together 💫
+<p align="center">
+  <strong>✨ Thanks for stopping by! Let's connect and grow together 🚀</strong>
 </p>
