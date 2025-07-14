@@ -5,7 +5,7 @@
 
 <!-- Intro Title with colorful wave text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jitendra+Yadav" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=8E2DE2&color2=4A00E0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jitendra+Yadav;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color:#00CED1;">🚀 Data Science Explorer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
@@ -29,6 +29,24 @@
 
 
 
+<!-- Connect Section - pushed down -->
+<h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/jitendra810463"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/stax_code"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="38" /></a>
+</p>
+
+---
+
 <!-- Tools -->
 <h2 style="color:#FF4500;">💻 Languages & Tools I Use</h2>
 <p align="center">
@@ -44,25 +62,6 @@
 </p>
 
 ---
-
-<!-- Connect Section - pushed down -->
-<h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/jitendra810463"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/stax_code"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" alt="hackerrank" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="38" /></a>
-</p>
-
----
-
 <!-- GitHub Stats -->
 <h2 align="center" style="color:#00CED1;">📊 GitHub Stats</h2>
 <p align="center">
@@ -94,10 +93,26 @@
 
 ---
 
+<!-- Tools -->
+<h2 style="color:#FF4500;">💻 Languages & Tools I Use</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius: 12px;" />
+</p>
+
+---
+
 
 <!-- Closing Line with Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" />
 </p>
 <p align="center" style="color:#7CFC00; font-weight: bold; font-size: 18px;">
   ✨ Thanks for stopping by! Let's connect and grow together 🚀
