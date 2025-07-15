@@ -33,7 +33,7 @@
 <!-- Connect Section - fixed with box style -->
 <h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jitendrayadav00"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/jitendra810463"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/stax_code"><img src="https://img.shields.io/badge/Instagram-View-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
