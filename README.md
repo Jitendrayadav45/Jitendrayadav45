@@ -34,17 +34,12 @@
 <!-- Connect Section - pushed down -->
 <h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/jitendra810463"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/stax_code"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="38" /></a>
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-f44336?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-@jitendra810463-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-stax_code-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Jitendra-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Jitendra%20Yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 
