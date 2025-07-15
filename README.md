@@ -30,15 +30,15 @@
 ---
 
 
-<!-- Connect Section - pushed down -->
+<!-- Connect Section - fixed with box style -->
 <h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-f44336?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/jitendra810463"><img src="https://img.shields.io/badge/Twitter-@jitendra810463-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/stax_code"><img src="https://img.shields.io/badge/Instagram-stax_code-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.shields.io/badge/HackerRank-Jitendra-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://img.shields.io/badge/LeetCode-Jitendra%20Yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jitendra-yadav"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/jitendra810463"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:official.jitendraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/stax_code"><img src="https://img.shields.io/badge/Instagram-View-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 
