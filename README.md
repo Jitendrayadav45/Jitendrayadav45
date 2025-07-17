@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/jitendrayadav00"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/jitendra810463"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="[mailto:](https://mail.google.com/)/official.jitendraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/official.jitendraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/stax_code"><img src="https://img.shields.io/badge/Instagram-View-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/official_jitend2"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://leetcode.com/official_jitendra_yadav/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
