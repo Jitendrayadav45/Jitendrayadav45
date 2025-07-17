@@ -29,6 +29,17 @@
 
 ---
 
+<!-- Focused On -->
+<h2 style="color:#20B2AA;">🧠 Currently Focused On</h2>
+<ul style="color:#FFD700; font-size: 16px;">
+  <li>📘 <strong style="color:#7CFC00;">Mastering DSA Topic-wise</strong></li>
+  <li>📈 <strong style="color:#FFA500;">Improving problem-solving via LeetCode & HackerRank</strong></li>
+  <li>🧪 <strong style="color:#00FFFF;">Working on real-world Data Science projects</strong></li>
+  <li>📚 <strong style="color:#DA70D6;">Preparing for tech interviews</strong></li>
+</ul>
+
+---
+
 
 <!-- Connect Section - fixed with box style -->
 <h2 style="color:#00BFFF;">🌐 Connect with Me</h2>
@@ -92,16 +103,7 @@
 
 ---
 
-<!-- Focused On -->
-<h2 style="color:#20B2AA;">🧠 Currently Focused On</h2>
-<ul style="color:#FFD700; font-size: 16px;">
-  <li>📘 <strong style="color:#7CFC00;">Mastering DSA Topic-wise</strong></li>
-  <li>📈 <strong style="color:#FFA500;">Improving problem-solving via LeetCode & HackerRank</strong></li>
-  <li>🧪 <strong style="color:#00FFFF;">Working on real-world Data Science projects</strong></li>
-  <li>📚 <strong style="color:#DA70D6;">Preparing for tech interviews</strong></li>
-</ul>
 
----
 
 
 
