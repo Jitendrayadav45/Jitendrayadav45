@@ -17,7 +17,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jitendra+Yadav;Full+Stack+Web+Developer;React.js+•+Next.js+•+Node.js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jitendra+Yadav;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 </h1>
 
