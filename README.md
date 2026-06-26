@@ -27,19 +27,6 @@
 
 ---
 
-
-### 🤖 AI & Machine Learning Engineer | 👁️ Computer Vision | 🚀 Generative AI
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Generative+AI+Explorer;Building+Real+World+AI+Solutions" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=arinkumar820&label=Profile+Views&color=00c2ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/arinkumar820?style=for-the-badge&color=00c2ff" />
-
-</div>
----------
-
 <!-- ========================================= -->
 <!--               CODING GIF                 -->
 <!-- ========================================= -->
